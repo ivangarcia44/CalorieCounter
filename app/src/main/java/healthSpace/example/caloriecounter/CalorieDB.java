@@ -31,10 +31,6 @@ public class CalorieDB {
 
     protected void finalize() throws Throwable
     {
-//        foodList.clear();
-//        foodList = null;
-//        fUsers.finalize();
-//        fUsers = null;
     }
 
     public void addFood(String aName, String aCategory, double aCalsPerGram, double aCalsPerCup,
