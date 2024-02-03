@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calorie Calculator</string>
+    <string name="go_home">Home</string>
+    <string name="count_calories">Count Calories</string>
+    <string name="welcome_to_the_calorie_counter_app">Welcome to the Calorie Calculator App!</string>
+    <string name="clear_cache">Clear cache</string>
+
+    <string-array name="FoodCategories">
+        <item>carbs</item>
+        <item>proteins</item>
+        <item>fruits</item>
+        <item>legumes</item>
+        <item>vegetables</item>
+        <item>fats</item>
+        <item>dairy</item>
+    </string-array>
+    <string-array name="UnitTypes">
+        <item>Calories</item>
+        <item>Grams</item>
+        <item>Cup</item>
+        <item>Unit</item>
+        <item>Tablespoon</item>
+        <item>Teaspoon</item>
+        <item>Mililiters</item>
+        <item>Ounces</item>
+    </string-array>
+
+</resources>

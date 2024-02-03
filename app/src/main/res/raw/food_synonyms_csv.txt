@@ -1,0 +1,28 @@
+Food Name, synonym list
+Banana, guineo, banano
+Pear, pera
+Apple, manzana
+Pineapple, pina, piña
+Blueberry, arandano
+Grape, uva
+Strawberry, fresa
+Rice, arroz
+Pasta, spaghetti, spageti, coditos
+Bread, pan
+WheatBread, pan integral, wheat bread, whole wheat bread
+Meat, carne
+ChickenDrum, chicken, pollo, alita, chicken wing
+ChickenBreast, pechuga
+Cod, bacalao, tilapia
+Shrimp, camaron
+Egg, huevo
+Beans, habichuelas, garbanzos, lentejas
+Spinach, espinaca
+Carrot, Zanahoria
+Pumpkin, calabaza
+Oil, olive oil, aceite de oliva
+Seeds, semillitas, semillas
+PeanutButter, mani, peanut butter
+Butter, mantequilla
+WholeMilk, leche, leche entera, whole milk
+Cheese, queso
